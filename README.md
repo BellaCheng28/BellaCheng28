@@ -50,8 +50,8 @@ I'm a **Full-Stack Software Engineer** based in **New York** with a background i
 
 ## 📫 Let's Connect
 - **Email:** bellacheng2302@gmail.com  
-- **Portfolio:** [https://xiaojiechengresume.netlify.app/](#)  
-- **LinkedIn:** [https://www.linkedin.com/in/xiaojiecheng/](#)  
+- **Portfolio:** [https://xiaojiechengresume.netlify.app/](https://xiaojiechengresume.netlify.app/)  
+- **LinkedIn:** [https://www.linkedin.com/in/xiaojiecheng/](https://www.linkedin.com/in/xiaojiecheng/)
 
 
 ---
