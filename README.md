@@ -35,12 +35,12 @@ I'm a **Full-Stack Software Engineer** based in **New York** with a background i
 - **Technologies:** Node.js,Express,ejs,mongoDB,Heroku
 - **Features:** Full CRUD operations for managing pantry items.Explore other users’ pantries to draw inspiration，Secure user authentication.
   
-### [hoot](https://hootapp.netlify.app/)
+### [Hoot](https://hootapp.netlify.app/)
 - **Description:** Completed a full-stack development project.create a frontend blogging application with a backend API to manage user authentication  with an account will be able to create, read, update and delete blog posts
 - **Technologies:** React, Node.js，Express，Ejs，MongoDB，Heroku,Netlify
 - **Features:** display and manage posts, create forms for posts and comments, and develop functionality for updating and deleting content
 
-### [skyrockit](https://skyrockit-af1d861c1aa2.herokuapp.com/)
+### [Skyrockit](https://skyrockit-af1d861c1aa2.herokuapp.com/)
 - **Description:** Completed a full-stack development project.create “Skyrockit,” an advanced platform designed to help users manage and track their job applications.
 - **Technologies:** Node.js，Express，Ejs，MongoDB，Heroku
 - **Features:** user authentication and embedding application data within user models using Mongoose.
