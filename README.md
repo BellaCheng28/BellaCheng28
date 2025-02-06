@@ -1,15 +1,19 @@
 # Hi, I'm Xiaojie Cheng (Bella) 👋
 
-I'm a **Full-Stack Software Engineer** based in **New York** with a background in accounting and e-commerce. After completing a 700+ hour immersive bootcamp at General Assembly, I transitioned into tech to combine my problem-solving mindset with a passion for building impactful web applications. I specialize in creating responsive, user-friendly interfaces and robust back-end solutions.
+Full-stack developer specializing in **React, Next.js, and Python**, with experience in building scalable **web applications and AI-powered solutions**. Over **3 years** of experience in front-end development and UI/UX for e-commerce platforms, improving user engagement and conversion rates. Strong problem-solving skills in **RESTful API development, authentication, and performance optimization**. Seeking a software engineering role to create impactful and user-friendly applications.
+
 
 ---
 
 ## 🌟 About Me
-- 🌱 **Currently Learning:** Python to deepen my understanding of backend technologies and data analysis.
-- 👀 **Passionate About:** Coding, optimizing user experiences, and building scalable applications.
-- 💼 **Actively Seeking:** Full-stack software engineer opportunities in New York. Open to collaborating on innovative projects that solve real-world problems.
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun Fact:** My experience in e-commerce taught me how to balance creativity and functionality by designing promotional product pages with Photoshop to meet platform-specific styles.
+- 🌱 Currently Learning: AI technologies to expand my expertise in full-stack development and intelligent applications.
+- 👀 Passionate About: Building scalable and AI-driven applications, optimizing user experiences, and solving complex problems with technology.
+- 💼 Actively Seeking: Software engineering roles focused on AI, front-end, or full-stack development in New York. Open to collaborating on innovative projects that leverage AI and 
+    automation to create impactful solutions.
+- 😄 Pronouns: She/Her
+- ⚡  Fun Fact: My experience in e-commerce UI/UX and front-end development taught me how to blend creativity with functionality—from designing data-driven product pages to developing 
+     efficient, responsive, and scalable web applications. I’ve worked on performance optimization, interactive UI components, and seamless user experiences, ensuring that 
+    applications are both visually appealing and highly functional. 🚀
 
 ---
 
@@ -62,14 +66,6 @@ I'm a **Full-Stack Software Engineer** based in **New York** with a background i
 - **Portfolio:** [https://xiaojiechengresume.netlify.app/](https://xiaojiechengresume.netlify.app/)  
 - **LinkedIn:** [https://www.linkedin.com/in/xiaojiecheng/](https://www.linkedin.com/in/xiaojiecheng/)
 
-
----
-
-## 📌 Fun Facts
-- **From Accounting to Tech:** My background in accounting and e-commerce has equipped me with a unique ability to analyze data, streamline workflows, and improve user experiences.
-- **Design Enthusiast:** I love combining functionality and creativity, whether it's coding a web app or designing promotional pages for e-commerce platforms.
-
----
 
 ## 💡 What I'm Looking For
 I'm excited to join a collaborative and innovative team where I can contribute to impactful projects, learn from experienced engineers, and grow as a software developer. If you're looking for a dedicated and versatile full-stack engineer, feel free to reach out!
